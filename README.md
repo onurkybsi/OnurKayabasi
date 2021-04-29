@@ -17,7 +17,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Speed-date  
 👨‍💼 I’m currently working on [Intertech](https://www.intertech.com.tr/en/index)  
   
 
@@ -74,33 +74,33 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=onurkybsi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=onurkybsi&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkybsi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkybsi&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=onurkybsi&&style=flat-square)  
-  
 
-<br/>  
 
 <a href="https://github.com/onurkybsi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/onurbpm" target="_blank">
+<a href="https://medium.com/@onurbpm" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCQMSfa1zy56MmPgsxbxbc9Q" target="_blank">
+<a href="https://www.youtube.com/channel/UCQMSfa1zy56MmPgsxbxbc9Q" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/onurkyabasi/" target="_blank">
+<a href="https://www.instagram.com/onurkyabasi/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kayabasionur/" target="_blank">
+<a href="www.linkedin.com/in/kayabasionur/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=onurkybsi&&style=flat-square)  
