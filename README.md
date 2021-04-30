@@ -1,6 +1,3 @@
-# <div align="right">Onur Kayabaşı</div>  
-  
-
 💻 Full-Stack Developer
   
   
