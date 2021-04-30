@@ -11,9 +11,6 @@
 🎸 Musician  
   
 
-😍 In love with [Aleyna](https://www.instagram.com/guneraaleyna/)  
-  
-
 <br/>  
 
 
