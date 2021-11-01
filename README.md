@@ -7,7 +7,7 @@
 
 
 ## Speed-date  
-👨‍💼 I’m currently working on [Intertech](https://www.intertech.com.tr/en/index)  
+👨‍💼 I’m currently working on [Eindhoven University of Technology](https://www.tue.nl/en/)  
   
 
 👀 I’m currently learning Concurrent Programming.  
