@@ -10,10 +10,10 @@
 👨‍💼 I’m currently working on [Eindhoven University of Technology](https://www.tue.nl/en/)  
   
 
-👀 I’m currently learning Concurrent Programming.  
+👀 I’m currently learning Operating System Basics and Spring Framework.  
   
 
-❓ Ask me about anything related to .NET Core, Microservice, Clean-Code, SOLID Principles, Elasticsearch. I like to share information and listen to new ideas  
+❓ Ask me about anything related to backend development. I like to share information and listen to new ideas  
   
 
 ⚡ Fact: I love challenges  
