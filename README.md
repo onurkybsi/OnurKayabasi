@@ -68,7 +68,7 @@
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkybsi)](https://github.com/onurkybsi/github-readme-stats)
 
 </td></tr></table>  
 
