@@ -60,23 +60,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=onurkybsi&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkybsi)](https://github.com/onurkybsi/github-readme-stats)
-
-</td></tr></table>  
-
-<br/>  
-<br/>
-
-
-
 <a href="https://github.com/onurkybsi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
