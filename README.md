@@ -10,7 +10,7 @@
 👨‍💼 I’m currently working on [Eindhoven University of Technology](https://www.tue.nl/en/)  
   
 
-👀 I’m currently learning Operating System Basics and Spring Framework.  
+👀 I’m currently learning Operating System Concepts and Spring Framework.  
   
 
 ❓ Ask me about anything related to backend development. I like to share information and listen to new ideas  
