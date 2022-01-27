@@ -1,4 +1,4 @@
-💻 Full-Stack Developer
+💻 Back Developer
 
 👨‍🎓 Senior Mathematical Engineering Student  
   
