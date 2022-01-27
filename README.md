@@ -1,4 +1,4 @@
-💻 Back Developer
+💻 Backend Developer
 
 👨‍🎓 Senior Mathematical Engineering Student  
   
