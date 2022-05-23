@@ -7,7 +7,7 @@
 
 
 ## Speed-date  
-👨‍💼 I’m currently working on [Eindhoven University of Technology](https://www.tue.nl/en/)  
+👨‍💼 I’m currently working on [21finance](https://21.finance/)  
   
 
 👀 I’m currently learning Operating System Concepts and Spring Framework.  
