@@ -10,7 +10,7 @@
 👨‍💼 I’m currently working on [21finance](https://21.finance/)  
   
 
-👀 I’m currently learning Operating System Concepts and Spring Framework.  
+👀 I’m currently learning Operating System Concepts and AWS services.
   
 
 ❓ Ask me about anything related to backend development. I like to share information and listen to new ideas  
