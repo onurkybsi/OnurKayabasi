@@ -1,6 +1,4 @@
 💻 Backend Developer
-
-👨‍🎓 Senior Mathematical Engineering Student  
   
 🎸 Musician  
 <br/>  
