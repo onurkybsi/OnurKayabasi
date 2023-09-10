@@ -5,7 +5,7 @@
 
 
 ## Speed-date  
-👨‍💼 I’m currently working on [21finance](https://21.finance/)  
+👨‍💼 I’m currently working at [21finance](https://21.finance/)  
   
 
 👀 I’m currently learning Operating System Concepts and AWS services.
