@@ -5,7 +5,7 @@
 
 
 ## Speed-date  
-👨‍💼 I’m currently working at [N26](https://www.linkedin.com/company/n26/)  
+👨‍💼 I’m currently working at [N26](https://www.linkedin.com/company/n26/).
   
 
 👀 I’m currently learning Operating System Concepts and AWS services.
