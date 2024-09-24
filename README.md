@@ -8,7 +8,7 @@
 👨‍💼 I’m currently working at [N26](https://www.linkedin.com/company/n26/).
   
 
-👀 I’m currently learning Operating System Concepts and AWS services.
+👀 I’m currently learning about implementing TCP/IP web server.
   
 
 ❓ Ask me about anything related to backend development. I like to share information and listen to new ideas  
